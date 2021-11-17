@@ -9,7 +9,6 @@ applications:
       - route: onlinecourse321.us-south.cf.appdomain.cloud/static
     memory: 128M
     buildpack: staticfile_buildpack
-    
   # applications:
   # - name: onlinecourse
   #   routes:
@@ -21,3 +20,4 @@ applications:
   #     - route: host.domain/static
   #   memory: 128M
   #   buildpack: staticfile_buildpack
+# remove commented items later
